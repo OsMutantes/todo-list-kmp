@@ -1,0 +1,28 @@
+
+{
+
+"buffer_font_size": 14,
+"buffer_font_family": "JetBrains Mono",
+"tab_size": 2,
+"buffer_line_height":"comfortable",
+"format_on_save": "on",
+"confirm_quit": false,
+"current_line_highlight": "gutter",
+"scrollbar" :{
+"show":"never"
+},
+"tab_bar": {
+  "show": true,
+  "show_nav_history_buttons": true
+},
+"toolbar": {
+  "breadcrumbs": true,
+  "quick_actions": true
+},
+"project_panel": {
+  "button": true,
+  "dock": "left",
+  "git_status": true
+}
+
+}
