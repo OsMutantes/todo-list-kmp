@@ -18,8 +18,6 @@ import todo_list_kmp.composeapp.generated.resources.compose_multiplatform
 @Preview
 fun App() {
 
-  Text("Click me!")
-
-
+    Home()
 
     }
